@@ -9,7 +9,7 @@ Stack  Application
 App to display search results from stack api.
 I have used (MVP)​​Model view presenter​ architecture for this project.
 
-I have used minimum comments in the code because the method names are sefl explanotory. 
+I have used minimum comments in the code because the method names are sefl explanatory. 
 						
 *Technologies*
 						
